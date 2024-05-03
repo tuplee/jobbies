@@ -6,6 +6,8 @@ This email service will deliver jobs, as they are posted, to the user's inbox th
 These jobs will be scraped using the ScrapFly API because I think it gives the best chance at success - open to other, better options though!
 There should be an option for the user to change their search keywords/profile after signing up.
 
+**Really IMPORTANT -->** DO NOT USE CHATGPT TO WRITE THE CODE. I guess it's called old school now to lurk stack exchange, but you need to work on your Python without chat doing so much heavy lifting. You can ask it questions but you may not copy/paste its code.
+
 For testing, a CLI interface for the app will work well enough. Once it has been integrated, a proper UI/UX experience for the application will conclude the project development.
 
 Here is what needs to be developed as I see it:
